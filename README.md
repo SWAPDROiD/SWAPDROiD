@@ -6,9 +6,9 @@ I'm a Software Engineer with a demonstrated history of working in backend and fr
 
 I bring a unique blend of creativity and technical expertise to deliver user-focused digital experiences.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&duration=3000&pause=200&color=F0DB4F&width=435&lines=Senior+Software+Engineer;Mentor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&duration=3000&pause=200&color=F0DB4F&width=435&lines=Senior+Software+Engineer;Mentor;Problem+Solver;AI+%26+AI+Agents+Builder)](https://git.io/typing-svg)
 
-- 🇮🇳 I'm based in Pune, Maharashtra
+- 🇮🇳 I'm based in Pune, Maharashtra, India
 - 🚀 I'm currently working at [Zendesk](https://www.zendesk.com/au/)
 - 💻 Checkout my new portfolio [swapnilverse.com](http://swapnilverse.com)
 - 📧 You can reach out to me at [hireme.swapnil.dev@gmail.com](mailto:hireme.swapnil.dev@gmail.com)
