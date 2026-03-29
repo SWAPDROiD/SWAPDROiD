@@ -10,7 +10,7 @@ I bring a unique blend of creativity and technical expertise to deliver user-foc
 
 - 🇮🇳 I'm based in Pune, Maharashtra, India
 - 🚀 I'm currently working at [Zendesk](https://www.zendesk.com/au/)
-- 💻 Checkout my new portfolio [swapnilverse.vercel.app](https://swapnilverse.vercel.app)
+- 💻 Checkout my new portfolio [swapdroid.vercel.app](https://swapdroid.vercel.app)
 - 📧 You can reach out to me at [hireme.swapnil.dev@gmail.com](mailto:hireme.swapnil.dev@gmail.com)
 - 🤝 I'm open to collaborating on exciting projects as a front-end or full-stack engineer.
 
