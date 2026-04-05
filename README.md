@@ -56,4 +56,4 @@ Get in touch! Say Hello 👋🏻
 
 ☕️ If you like my work, you can support me by buying me a coffee. I would really appreciate it!
 
-<a href="https://www.buymeacoffee.com/swapdroid"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://buymeacoffee.com/its_swapdroid"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
